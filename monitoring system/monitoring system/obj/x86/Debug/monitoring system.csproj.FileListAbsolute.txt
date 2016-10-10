@@ -1,0 +1,97 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\monitoring_system.Form1.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\monitoring_system.Properties.Resources.resources
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\bin\Debug\monitoring system.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\bin\Debug\monitoring system.pdb
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\monitoring system.exe
+C:\Users\Administrator\AppData\Local\Temporary Projects\monitoring system\obj\x86\Debug\monitoring system.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\obj\x86\Debug\monitoring system.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\obj\x86\Debug\monitoring system.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\monitoring system.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\monitoring system.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.server.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\ZedGraph.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\obj\x86\Debug\monitoring system.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\monitoring system.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\obj\x86\Debug\GraphFormFormsApplication.GraphForm.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\monitoring system\monitoring system\bin\Debug\Properties\monitoring system.accdb
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.exe.config
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.exe
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.pdb
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.csprojResolveAssemblyReference.cache
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\GraphFormFormsApplication.GraphForm.resources
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.server.resources
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.Properties.Resources.resources
+C:\Users\w\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.exe.config
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.exe
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.pdb
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\Properties\monitoring system.accdb
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.exe
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.pdb
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\ZedGraph.xml
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\GraphFormFormsApplication.GraphForm.resources
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.server.resources
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.Properties.Resources.resources
+C:\Users\Administrator\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.exe.config
+C:\Users\Administrator\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.exe
+C:\Users\Administrator\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.pdb
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.exe.config
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.exe
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.pdb
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\GraphFormFormsApplication.GraphForm.resources
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.server.resources
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring_system.Properties.Resources.resources
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\Properties\monitoring system.accdb
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.exe
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\monitoring system.pdb
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\ZedGraph.xml
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\de\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\es\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\fr\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\hu\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\it\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\ja\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\pt\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\ru\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\sk\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\sv\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\tr\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\Desktop\省塞\monitoring system1.2\monitoring system\monitoring system\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\monitoring system1.2\monitoring system\monitoring system\obj\x86\Debug\monitoring system.csproj.ResolveComReference.cache
